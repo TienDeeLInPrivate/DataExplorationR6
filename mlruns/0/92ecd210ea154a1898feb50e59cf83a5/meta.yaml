@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/linibm/PycharmProjects/DataExplorationR6/mlruns/0/92ecd210ea154a1898feb50e59cf83a5/artifacts
+end_time: 1681203932151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ecd210ea154a1898feb50e59cf83a5
+run_name: enthused-mare-368
+run_uuid: 92ecd210ea154a1898feb50e59cf83a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681203927531
+status: 3
+tags: []
+user_id: linibm
